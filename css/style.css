@@ -1,5 +1,5 @@
 .error {
-    display: block;
+    display: none;
     padding: 30px;
     border: 1px solid red;
 }
